@@ -1,11 +1,5 @@
 ## Hey, I'm Uriel 👋
-Full Stack Developer — with a background in Telecommunications Engineering and 5+ years building modern web applications end-to-end.
 
-🔭 Currently working at Arissta TI — building full-stack products from database design to production deployment
-🤖 I work natively with AI tools (ChatGPT, Claude, Gemini) and AI-assisted development platforms (Cursor, Windsurf) to ship faster and smarter
-🌐 My stack: Next.js · TypeScript · Node.js · Django · PostgreSQL · Supabase · Tailwind CSS
-📡 Before going full-stack, I spent years deep in networking, VoIP, and telecom infrastructure (Cisco, Asterisk, VPN, SD-WAN)
-💬 Ask me about: full-stack architecture, e-commerce integrations, Stripe, REST APIs, DNS & deployment
 📫 Reach me at: urimarquezc@gmail.com
 
 <!--
