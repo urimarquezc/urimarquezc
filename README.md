@@ -82,7 +82,3 @@ Spanish (Native)
 English (Intermediate)  
 
 ---
-
-## 🌐 Portfolio
-
-www.unsitiogenial.es
