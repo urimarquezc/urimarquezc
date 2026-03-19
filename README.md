@@ -1,12 +1,15 @@
 # Hey, I’m Uriel 👋  
 
-Full Stack Developer — building modern web applications end-to-end  
+Full Stack Developer — with 4+ years of experience building modern web applications end-to-end  
 
-🔭 Currently working at Arissta  
-⚡ 3+ years of experience  
-🤖 AI-native developer (ChatGPT, Claude, Gemini)  
-🌐 Next.js · Node.js · Django · PostgreSQL  
-📫 urimarquezc@gmail.com  
+---
+
+- 🔭 Currently working at Arissta — developing full-stack solutions from database design to production deployment across multiple industries  
+- 🤖 I work natively with AI tools (ChatGPT, Claude, Gemini) and AI-assisted development platforms (Cursor, Windsurf, Antigravity) to build faster and smarter  
+- 🌐 My stack: Next.js · TypeScript · Node.js · Django · PostgreSQL · Supabase · Tailwind CSS  
+- 🚀 I’ve built e-commerce platforms with Stripe integration, corporate websites and scalable production systems  
+- 🧠 Experience in full-stack architecture, APIs, cloud deployment and modern web development  
+- 📫 Reach me at: urimarquezc@gmail.com  
 
 ---
 
@@ -73,15 +76,13 @@ Full Stack Developer — building modern web applications end-to-end
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urimarquezc&show_icons=true&theme=dark)
-
----
-
 ## 🌍 Languages
 
 Spanish (Native)  
 English (Intermediate)  
 
 ---
+
+## 🌐 Portfolio
+
+www.unsitiogenial.es
