@@ -1,6 +1,6 @@
 # Hey, I’m Uriel 👋  
 
-Full Stack Developer — with 4+ years of experience building modern web applications end-to-end  
+Full Stack Developer — with 3+ years of experience building modern web applications end-to-end  
 
 ---
 
