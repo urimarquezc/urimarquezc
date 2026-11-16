@@ -64,7 +64,7 @@ Full Stack Developer — with 4+ years of experience building modern web applica
 
 ## 🚀 Experience
 
-**Senior Full Stack Developer — Arissta (2021 – Present)**  
+**Full Stack Developer — Arissta (2021 – Present)**  
 • Development of end-to-end web applications across multiple industries  
 • From architecture and database design to deployment and scaling  
 • Projects include e-commerce platforms, corporate websites and production systems  
