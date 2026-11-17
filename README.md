@@ -64,12 +64,12 @@ Full Stack Developer — with 4+ years of experience building modern web applica
 
 ## 🚀 Experience
 
-**Full Stack Developer — Arissta (2021 – Present)**  
+**Full Stack Developer — Arissta (2023 – Present)**  
 • Development of end-to-end web applications across multiple industries  
 • From architecture and database design to deployment and scaling  
 • Projects include e-commerce platforms, corporate websites and production systems  
 
-**Freelance Web Developer (2022 – Present)**  
+**Freelance Web Developer (2021 – 2022)**  
 • 10+ custom-coded projects (Next.js, React, Django)  
 • 20+ WordPress sites deployed  
 • Full project lifecycle: requirements, development, deployment and delivery  
@@ -79,6 +79,6 @@ Full Stack Developer — with 4+ years of experience building modern web applica
 ## 🌍 Languages
 
 Spanish (Native)  
-English (Intermediate)  
+English (B2)  
 
 ---
